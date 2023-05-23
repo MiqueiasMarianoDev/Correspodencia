@@ -1,0 +1,15 @@
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/bin/Debug/net7.0/Correspodencia
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/bin/Debug/net7.0/Correspodencia.deps.json
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/bin/Debug/net7.0/Correspodencia.runtimeconfig.json
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/bin/Debug/net7.0/Correspodencia.dll
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/bin/Debug/net7.0/Correspodencia.pdb
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.csproj.AssemblyReference.cache
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.AssemblyInfoInputs.cache
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.AssemblyInfo.cs
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.csproj.CoreCompileInputs.cache
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.dll
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/refint/Correspodencia.dll
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.pdb
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/Correspodencia.genruntimeconfig.cache
+/home/mike/Projetos/MQS/C#/Inglês/Correspodencia/obj/Debug/net7.0/ref/Correspodencia.dll
